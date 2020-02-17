@@ -1,3 +1,4 @@
+@import "url(https:)";
 h1 {
   /*color: rgb(0,50,50);*/
   color: teal;
@@ -5,4 +6,21 @@ h1 {
   background - color: grey
   text-align:center;
   font-size: 12px;
+  line-height: 1.5;
+  font-size: 400%; /*400% of the default browser*/
+}
+p {
+  font-weight:900;
+  font-family: "Montserrat", sans-serif;
+}
+b,
+strong {
+  font-weight: 200;
+}
+a{
+  color: teal;
+  text-decoration: none;/* removes the underlining*/
+}
+a: hover {
+  background-color: pink;
 }
