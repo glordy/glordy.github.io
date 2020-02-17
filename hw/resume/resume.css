@@ -1,0 +1,30 @@
+font-family: 'Pacifico', cursive;
+h1 {
+  background-color: pink;
+  color: grey;
+  font-style: bold;
+}
+h2 {
+  color: pink;
+  font-style: italic;
+}
+a hover {
+  background-color: pink;
+  color: grey;
+  text-decoration: none;
+}
+.name {
+  text-decoration: underline;
+}
+.education {
+  text-transform: lowercase;
+}
+.experience {
+  text-decoration-style: wavy;
+}
+.hobbies {
+  text-transform: uppercase;
+}
+.sentence {
+  text-decoration: line-through;
+}
