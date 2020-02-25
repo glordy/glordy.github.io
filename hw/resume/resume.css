@@ -2,11 +2,11 @@ font-family: 'Pacifico', cursive;
 h1 {
   background-color: pink;
   color: grey;
-  font-style: bold;
+  text-align: center; 
 }
 h2 {
   color: pink;
-  font-style: italic;
+  font-weight: 400;
 }
 a hover {
   background-color: pink;
