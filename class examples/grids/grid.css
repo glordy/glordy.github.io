@@ -10,7 +10,7 @@ body{
   grid-row-gap: 30px;
   grid-gap: 40px;
 }
-.g1-img-1 {
+/* .g1-img-1 {
   grid-column-start: 1/2;
   /* grid-column-start:1;
   grid-column-end:2; */
@@ -27,7 +27,7 @@ body{
 }
 .g1-img-4 {
   grid-column: 2/3;
-  grid-row: 2/3;
+  grid-row: 2/3; */
 }
 .grid-container-3{
   grid-colum: 2/4;
