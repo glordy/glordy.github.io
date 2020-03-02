@@ -6,8 +6,8 @@ body{
   display: grid;
   width: 400px;
   gird-template-columns: 150px 150px;
-  /* grid-column-gap: 20px;
-  grid-row-gap: 30px; */
+  grid-column-gap: 20px;
+  grid-row-gap: 30px;
   grid-gap: 40px;
 }
 .g1-img-1 {
