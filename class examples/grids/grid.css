@@ -12,7 +12,7 @@ section {
 }
 
 /* A gallery grid */
-.grid1-container {
+.grid-container-1{
   display: grid;
   /* you can use the following two properties to define the height of your rows or the width of your columns. Units you can use for this are px, %, fr units, and em/rem. */
   grid-template-columns: 150px 150px;
@@ -52,7 +52,7 @@ section {
 
 /* Text 1 - Putting a headline and two different paragraphs in separate columns*/
 
-.grid2-container {
+.grid-container-2{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
@@ -74,7 +74,7 @@ section {
 
 /* Text 2 - a headline and a multi-column text */
 
-.grid3-container {
+.grid-container-3{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: 2%;
@@ -95,7 +95,7 @@ section {
 
 /* Mixed: A grid using picture and text */
 
-.grid4-container {
+.grid-container-4 {
   display: grid;
   grid-gap: 5%;
 }
