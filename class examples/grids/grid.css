@@ -29,7 +29,7 @@ body{
   grid-column: 2/3;
   grid-row: 2/3;
 }
-.grid-containter-3{
+.grid-container-3{
   grid-colum: 2/4;
   grid-row:1/2;
   column-count: 2;
