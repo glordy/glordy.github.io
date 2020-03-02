@@ -4,7 +4,11 @@ body{
 }
 .grid-container-1 {
   display: grid;
-  width: 400px; 
+  width: 400px;
+  gird-template-columns: 150px 150px;
+  /* grid-column-gap: 20px;
+  grid-row-gap: 30px; */
+  grid-gap: 40px;
 }
 .g1-img-1 {
   grid-column-start: 1/2;
@@ -24,4 +28,9 @@ body{
 .g1-img-4 {
   grid-column: 2/3;
   grid-row: 2/3;
+}
+.grid-containter-3{
+  grid-colum: 2/4;
+  grid-row:1/2;
+  column-count: 2;
 }
