@@ -19,7 +19,7 @@ section {
   grid-template-rows: 150px 150px;
 
   /* grid-column-gap and grid-row-gap let you set the spacing between grid cells. You can set them uniformly using the grid-gap property. */
-  grid-column-gap: 20px;
+  grid-column-gap: 30px;
   grid-row-gap: 30px;
 }
 
