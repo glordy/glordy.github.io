@@ -15,15 +15,8 @@ header {
   color: grey;
   border: 5px solid white;
 }
-h1{
-  font-size: 50px;
-}
 h2 {
   color: grey;
-  font-size: 35px;
-}
-p{
-  font-size: 21px;
 }
 /* Beginning of grids */
 .grid-container-1 {
