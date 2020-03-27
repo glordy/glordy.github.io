@@ -1,5 +1,9 @@
 header{
-  background-color: light grey; 
+  align-content: center;
+  background-color: white;
+  padding: 30px;
+  height: 100%;
+  width:100%;
 }
 body {
   width: 900px;
