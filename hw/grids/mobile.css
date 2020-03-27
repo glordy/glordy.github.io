@@ -1,14 +1,16 @@
 @media only screen and (max-width:767px){
 /* What goes here? The css for things that need to change at this size */
 body {
+  max-width: 900px;
   background-color: blue;
+  color: black;
 }
 
 /*.grid-container-1{
   grid-template-columns:150px;
   grid-template-rows:repeat (4,150px);
 }*/
-.g1-img {
+/*.g1-img {
   grid-column: 1/2;
   grid-row: 1/2;
 }
@@ -23,4 +25,80 @@ body {
 .g4-img {
   grid-column: 1/2;
   grid-row: 4/5;
+}*/
+.grid-container-1 {
+grid-template-columns: 1fr;
+grid-auto-rows: 1fr 1fr 1fr;
+}
+
+.g1-hed {
+  grid-column: 1/2;
+  grid-row: 1/2;
+}
+
+.g1-img {
+  grid-column: 1/2;
+  grid-row: 2/3;
+}
+
+.g1-text {
+  grid-column: 2/3;
+  grid-row: 3/4;
+}
+.grid-container-2 {
+  grid-template-columns: 1fr;
+  grid-auto-rows: 1fr 1fr 1fr;
+}
+
+.g2-hed {
+  grid-column: 1/2;
+  grid-row: 1/2;
+}
+
+.g2-img {
+  grid-column: 1/2;
+  grid-row: 2/3;
+}
+
+.g2-text {
+  grid-column: 2/3;
+  grid-row: 3/4;
+}
+.grid-container-3 {
+  grid-template-columns: 1fr;
+  grid-auto-rows: 1fr 1fr 1fr;
+}
+
+.g3-hed {
+  grid-column: 1/2;
+  grid-row: 1/2;
+}
+
+.g3-img {
+  grid-column: 1/2;
+  grid-row: 2/3;
+}
+
+.g3-text {
+  grid-column: 2/3;
+  grid-row: 3/4;
+}
+.grid-container-4 {
+  grid-template-columns: 1fr;
+  grid-auto-rows: 1fr 1fr 1fr;
+}
+
+.g4-hed {
+  grid-column: 1/2;
+  grid-row: 1/2;
+}
+
+.g4-img {
+  grid-column: 1/2;
+  grid-row: 2/3;
+}
+
+.g4-text {
+  grid-column: 2/3;
+  grid-row: 3/4;
 }
