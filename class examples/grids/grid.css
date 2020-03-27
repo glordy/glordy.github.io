@@ -17,17 +17,17 @@ section {
   grid-gap: 5%;
 }
 
-.g4-hed {
+.g41-hed {
   grid-column: 1/2;
   grid-row: 1/2;
 }
 
-.g4-img {
+.g1-img {
   grid-column: 1/2;
   grid-row: 2/3;
 }
 
-.g4-text {
+.g1-text {
   grid-column: 2/3;
   grid-row: 2/3;
 }
@@ -36,17 +36,17 @@ section {
   grid-gap: 5%;
 }
 
-.g4-hed {
+.g2-hed {
   grid-column: 1/2;
   grid-row: 1/2;
 }
 
-.g4-img {
+.g2-img {
   grid-column: 1/2;
   grid-row: 2/3;
 }
 
-.g4-text {
+.g2-text {
   grid-column: 2/3;
   grid-row: 2/3;
 }
@@ -55,17 +55,17 @@ section {
   grid-gap: 5%;
 }
 
-.g4-hed {
+.g3-hed {
   grid-column: 1/2;
   grid-row: 1/2;
 }
 
-.g4-img {
+.g3-img {
   grid-column: 1/2;
   grid-row: 2/3;
 }
 
-.g4-text {
+.g3-text {
   grid-column: 2/3;
   grid-row: 2/3;
 }
