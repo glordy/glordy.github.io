@@ -4,8 +4,8 @@ body {
   background-color: pink;
 }
 header {
-  align-content: center;
-  border: 5px white; 
+  text-align: center;
+  border: 5px solid white; 
 }
 nav {
   margin-bottom: 150px;
