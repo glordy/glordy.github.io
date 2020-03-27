@@ -18,9 +18,14 @@ header {
 }
 h1{
   text-decoration: underline;
+  font-size: 50px;
 }
 h2 {
   color: grey;
+  font-size: 30px;
+}
+p{
+  font-size: 18px;
 }
 /* Beginning of grids */
 .grid-container-1 {
