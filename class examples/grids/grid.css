@@ -1,11 +1,11 @@
-h1{
-align-content: center;
-border: 5px solid black;
-}
 body {
   width: 900px;
   margin: 0 auto;
   background-color: pink;
+}
+header {
+  align-content: center;
+  border: 5px white; 
 }
 nav {
   margin-bottom: 150px;
