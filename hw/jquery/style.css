@@ -1,0 +1,15 @@
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: pink;
+}
+.grid-container{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+.gird-placename{
+  grid-column: 1/2
+}
+.grid-placeimg{
+  
+}
