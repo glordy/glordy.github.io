@@ -3,6 +3,17 @@ body {
   margin: 0 auto;
   background-color: pink;
 }
+h1 {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  color: blue;
+}
+h2 {
+  color: blue;
+}
+h3 {
+  color: blue;
+}
 .grid-container1{
   display: grid;
   grid-template-columns: 1fr 2fr;
