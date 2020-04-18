@@ -3,14 +3,14 @@ $(document).ready(function(){
   console.log("we loaded");
 
   $("h2").mouseover(function(){
-    $("p").css("font-size","21px");
+    $("h2").css("font-size","21px");
   });
-  $("p").mouseleave(function(){
-    $("p").css("background-color","grey");
+  $("h2").mouseleave(function(){
+    $("h2").css("background-color","grey");
   });
   $("#button1").click(function(){
     $("#ingredients").show();
-  }
+  };
   $("#button2").click(function(){
     $("#ingredients").hide();
-  } 
+  };
