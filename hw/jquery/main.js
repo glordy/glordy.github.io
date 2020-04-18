@@ -3,7 +3,7 @@ $(document).ready(function(){
   console.log("we loaded");
 
   $("h2").mouseover(function(){
-    $("h2").css("font-size","21px");
+    $("h2").css("font-size","40px");
   });
   $("h2").mouseleave(function(){
     $("h2").css("background-color","grey");
