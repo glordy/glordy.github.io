@@ -28,26 +28,34 @@ $(document).ready(function(){
   });
   $("#p1").mouseover(function(){
     $("#p1").css("color","grey");
+    $("#p1").css("font-size","40px");
   });
   $("#p2").mouseover(function(){
     $("#p2").css("color","grey");
+    $("#p2").css("font-size","40px");
   });
   $("#p3").mouseover(function(){
     $("#p3").css("color","grey");
+    $("#p3").css("font-size","40px");
   });
   $("#p4").mouseover(function(){
     $("#p4").css("color","grey");
+    $("#p4").css("font-size","40px");
   });
   $("#p1").mouseleave(function(){
     $("#p1").css("color","black");
+    $("#p1").css("font-size","16px");
   });
   $("#p2").mouseleave(function(){
     $("#p2").css("color","black");
+    $("#p2").css("font-size","16px");
   });
   $("#p3").mouseleave(function(){
     $("#p3").css("color","black");
+    $("#p3").css("font-size","16px");
   });
   $("#p4").mouseleave(function(){
     $("#p4").css("color","black");
+    $("#p4").css("font-size","16px");
   });
 });
